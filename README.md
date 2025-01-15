@@ -19,13 +19,13 @@ You play as a farmer who must complete their chores and make breakfast. To do so
 7. **POKER!** You will be able to play Texas Hold 'Em in the game. Don't ask me how yet.
 
 ### Download Instructions
-1. Navigate to the game's .zip [file](SunriseScramble.zip) here on GitHub
+1. Navigate to the game's .zip [file](SunriseScramble.zip) here on GitHub.
 
-2. Select the "Download raw file" button (if that doesn't work, click the "View raw" link and it should automatically download)
+2. Select the "Download raw file" button (if that doesn't work, click the "View raw" link and it should automatically download).
 
-3. Once you've downloaded the .zip file, navigate to it in your computer's file system
+3. Once you've downloaded the .zip file, navigate to it in your computer's file system.
 
-4. Extract all the files
+4. Extract all the files.
 
 5. Find the folder named dist and run game.exe (NOT game.py!). It should open in the terminal.
 
